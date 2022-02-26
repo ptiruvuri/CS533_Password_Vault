@@ -1,2 +1,2 @@
-# CS533_Password_Vault
-Password Vault Application developed as part of CS533 Course
+# CS533PasswordVaultApp
+Group final project for Android Computing. A password vault app that securely stores and generates strong passwords.
